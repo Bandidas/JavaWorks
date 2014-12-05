@@ -7,7 +7,7 @@ public class ornek01
 		System.out.println("Hello World!");
 		System.out.println("BTBS");
 		System.out.println("Java");
-		System.out.printf("Sayý: %d",5);
-		System.out.printf("Ad :%s","fatih");
+		System.out.printf("Yaþým: %d",19);
+		System.out.printf("Adým: %s Soyadým: %s","Çaðlanur","Saðlam");
 	}
 }
